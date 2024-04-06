@@ -1,5 +1,3 @@
-# pp-lab-2
-
 <!DOCTYPE html>
 <html lang="pl"><!--<html lang="pl-PL">-->
 <!--Nagłówek dokumentu-->
